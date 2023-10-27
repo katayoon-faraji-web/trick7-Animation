@@ -3,7 +3,7 @@
 
 
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick6/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick7/)
 
 - Developed by katayoon faraji
 
